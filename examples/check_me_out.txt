@@ -1,7 +1,0 @@
-http://jakevdp.github.io/blog/2017/03/08/triple-pendulum-chaos/
-https://rajeshrinet.github.io/blog/2014/ising-model/
-https://jakevdp.github.io/blog/2013/08/07/conways-game-of-life/
-https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
-http://bugman123.com/
-http://www.fundza.com/algorithmic/sierpinski/python/index.html
-
